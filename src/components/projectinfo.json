@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "RINTERIO",
+    "title": "Hotel Booking",
+    "description": "A stylish and responsive online hotel booking built with React and Tailwind CSS.",
+    "languages": ["React", "Tailwind CSS", "JavaScript"],
+    "github": "https://github.com/yourusername/rinterio-hotel",
+    "live": "https://rinterio.github.com",
+    "images": [
+      "/images/hotelrinterio.png",
+      "/images/hotelrinterio2.png",
+      "/images/hotelrinterio3.png",
+      "/images/hotelrinterio4.png",
+      "/images/hotelrinterio5.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "AZUREDREAM LODGE",
+    "title": "Second-hand Gloves Selling Site",
+    "description": "Marketplace for buying and selling second-hand gloves.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/yourusername/glove-store",
+    "live": "https://glove-store.vercel.app",
+    "images": [
+      "/images/azredreamlodge.png",
+      "/images/azredreamlodge2.png",
+      "/images/azredreamlodge3.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Penguin Fashion",
+    "title": "E-commerce Shoe Store",
+    "description": "A stylish and responsive online shoe store built with React and Tailwind CSS.",
+    "languages": ["React", "Tailwind CSS", "JavaScript"],
+    "github": "https://github.com/yourusername/penguin-fashion",
+    "live": "https://penguin-fashion.vercel.app",
+    "images": [
+      "/images/project1-1.jpg",
+      "/images/project1-2.jpg",
+      "/images/project1-3.jpg",
+      "/images/project1-4.jpg",
+      "/images/project1-5.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Foodies Hub",
+    "title": "Online Food Delivery App",
+    "description": "A web app for ordering food online from various restaurants.",
+    "languages": ["React", "Redux", "Firebase"],
+    "github": "https://github.com/yourusername/foodies-hub",
+    "live": "https://foodies-hub.vercel.app",
+    "images": [
+      "/images/project4-1.jpg",
+      "/images/project4-2.jpg",
+      "/images/project4-3.jpg",
+      "/images/project4-4.jpg",
+      "/images/project4-5.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "EduLearn",
+    "title": "Online Learning Platform",
+    "description": "Platform for online courses and skill development.",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/yourusername/edulearn",
+    "live": "https://edulearn.vercel.app",
+    "images": [
+      "/images/project5-1.jpg",
+      "/images/project5-2.jpg",
+      "/images/project5-3.jpg",
+      "/images/project5-4.jpg",
+      "/images/project5-5.jpg"
+    ]
+  }
+
+]

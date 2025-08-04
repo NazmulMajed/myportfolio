@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:ital,wght@0,100;0,200;0,300;0,400;1,100&family=Orbitron:wght@400..900&family=Rye&display=swap');
+@import "tailwindcss";
+
+*{
+    font-family:Orbitron ;
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 72px;
+        font-family: Montserrat;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #282828;
+      }
+
+      .cls-1 {
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard 3">
+    <text id="N_M" data-name="N M" class="cls-1" transform="translate(47.217 126.47) rotate(-0.255) scale(1.007)">N M</text>
+    <text id="H" class="cls-2" x="86.782" y="126.113">H</text>
+    <text id="NAZMUL_HASAN_MAJED" data-name="NAZMUL HASAN MAJED" class="cls-3" transform="translate(11.523 148.181) scale(0.24)">NAZMUL HASAN MAJED</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1113" height="645" viewBox="0 0 1113 645">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #282828;
+      }
+
+      .cls-1 {
+        stroke: red;
+        stroke-width: 9.56px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 72px;
+        font-family: Montserrat;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <g>
+      <path class="cls-1" d="M483,329V319h84v10H483Z"/>
+      <text id="NM" class="cls-2" transform="translate(280.374 426.242) rotate(-0.255) scale(4.189)">NM</text>
+      <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-1" d="M475,280h10v84H475V280Z"/>
+      <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-1" d="M566,280h10v84H566V280Z"/>
+    </g>
+  </g>
+</svg>
